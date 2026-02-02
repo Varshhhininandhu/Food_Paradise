@@ -41,8 +41,6 @@ This project is a  e-commerce website for grocery shopping,It allows users to cr
 - `/styles`: Global styles and theme configuration
 - `/public`: Static assets and index.html file
 
-## Deployment
-The project is deployed and accessible at https://649019f994a8663fb7b93867--sprightly-lolly-ea509d.netlify.app/.
 ## Demo 
 - Landing Page
 ![Screenshot (52)](https://github.com/ThilakSamplegithub/gorgeous-flight-7504/assets/112754841/93505113-ba5a-4d6a-a801-8ed0f0dae6db)
@@ -82,6 +80,7 @@ Admin side(Crud)
 
 ![Screenshot (48)](https://github.com/ThilakSamplegithub/gorgeous-flight-7504/assets/112754841/51ca6836-bbe9-4549-8125-41d42017a9a7)
 ![Screenshot (49)](https://github.com/ThilakSamplegithub/gorgeous-flight-7504/assets/112754841/4ea51b4a-5553-4e4f-a7f0-779894b696c8)
+
 
 
 
