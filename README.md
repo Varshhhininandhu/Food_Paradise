@@ -87,15 +87,4 @@ Admin side(Crud)
 
 
 
-## Getting Started
-
-To get started with the project, follow these steps:
-
-1. Clone the repository
-2. Install dependencies using `npm install`
-3. Open the application in your browser at `http://localhost:3000`
-
-
-
-
 
