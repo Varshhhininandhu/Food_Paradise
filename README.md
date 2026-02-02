@@ -95,24 +95,6 @@ To get started with the project, follow these steps:
 2. Install dependencies using `npm install`
 3. Open the application in your browser at `http://localhost:3000`
 
-## Our Contributers
-
-
-1.Ankit kumar </br>
-2.Devnandan Raj Sharma </br>
-3.Satya Indra Dev </br>
-4.Thakur Thilak </br>
-
-
-## Contributing
-
-Contributions to the project are welcome! To contribute, follow these steps:
-
-1. Fork the repository
-2. Create a new branch for your changes
-3. Make your changes and commit them
-4. Push your changes to your fork
-5. Create a pull request
 
 
 
